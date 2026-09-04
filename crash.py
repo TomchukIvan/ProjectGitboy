@@ -1,3 +1,4 @@
+# TODO: Добавить проверку на пустой ввод
 def hello_func(user_score, y):
 
     print("Привет, мир!")
