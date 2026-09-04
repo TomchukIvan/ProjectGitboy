@@ -1,8 +1,8 @@
-def hello_func(x, y):
+def hello_func(user_score, y):
 
     print("Привет, мир!")
-    if x > y:
-        return x
+    if user_score > y:
+        return user_score
     else:
         return y
 
